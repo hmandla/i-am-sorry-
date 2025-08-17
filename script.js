@@ -51,5 +51,5 @@ animate();
 function playMusicAndForgive() {
   const music = document.getElementById("bgMusic");
   music.play().catch((e) => console.log("Music playback blocked:", e));
-  alert("Thank you, Anu papa ❤️ I promise to be better.");
+  alert("Thank you, Anu Bangaram ❤️ I promise to be better everyday.");
 }
